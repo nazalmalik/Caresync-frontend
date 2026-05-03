@@ -4,6 +4,7 @@ import { FaLightbulb, FaTasks, FaCalendarAlt, FaBell, FaUsers } from "react-icon
 import API from "../api/axiosInstance";
 import "./aiInsights.css";
 
+
 const AIInsights = () => {
   const [data, setData] = useState(null);
   const [loading, setLoading] = useState(true);

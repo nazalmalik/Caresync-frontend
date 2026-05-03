@@ -4,7 +4,7 @@ import TownPharmacy from "../assets/townpharmacy.webp";
 import DwatsonLogo from "../assets/dwatsonlogo.png";
 import SehatLogo from "../assets/sehattmlogo.png";
 import DwagoLogo from "../assets/Dwagologo.jpg";
-import HealthwireLogo from "../assets/healthwirelogo.png";
+import HealthWireLogo from "../assets/healthwirelogo.png";
 import ServaidLogo from "../assets/servaidlogo.png"
 import ClinixLogo from "../assets/clinixlogo.png";
 
@@ -89,7 +89,7 @@ const pharmacies = [
   category: "Online Pharmacy",
   contact: "042 32500988",
   website: "https://healthwire.pk/",
-  image: HealthwireLogo,
+  image: HealthWireLogo,
   delivery: true,
   paymentMethods: ["Cash", "Credit Card", "Online Payment"],
   services: ["Medicines", "Over‑the‑Counter (OTC)", "Lab Test Booking", "Health Products"],
