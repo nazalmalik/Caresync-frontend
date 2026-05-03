@@ -8,6 +8,7 @@ import HealthwireLogo from "../assets/healthwirelogo.png";
 import ServaidLogo from "../assets/servaidlogo.png"
 import ClinixLogo from "../assets/clinixlogo.png";
 
+
 const pharmacies = [
 {
   id: 1,
