@@ -4,7 +4,7 @@ import TownPharmacy from "../assets/townpharmacy.webp";
 import DwatsonLogo from "../assets/dwatsonlogo.png";
 import SehatLogo from "../assets/sehattmlogo.png";
 import DwagoLogo from "../assets/Dwagologo.jpg";
-import HealthwireLogo from "../assets/healthwirelogo.PNG";
+import HealthwireLogo from "../assets/healthwirelogo.png";
 import ServaidLogo from "../assets/servaidlogo.png"
 import ClinixLogo from "../assets/clinixlogo.png";
 
